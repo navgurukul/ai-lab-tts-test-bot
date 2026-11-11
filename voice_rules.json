@@ -1,0 +1,41 @@
+{
+  "words_hng": {
+    "pustakein": "kitaabein",
+    "pustak": "kitaab",
+    "study": "padhaai",
+    "material": "cheezein",
+    "within": "ke andar",
+    "assistant": "saathi",
+    "goal": "lakshya",
+    "seekhna": "padhna",
+    "seekh": "padh",
+    "sikhna": "padhna"
+  },
+  "words_en": {
+    "study": "lessons",
+    "material": "lessons",
+    "within": "in",
+    "assistant": "helper",
+    "goal": "aim"
+  },
+  "phrase_hints": {
+    "process": "taiyaar / ho gaya",
+    "processed": "taiyaar / ho gaya",
+    "seekhna": "padhna / padh rahi"
+  },
+  "patterns_hng": {
+    "has been processed": "is ready",
+    "is being processed": "is on the way",
+    "process ho gaya": "taiyaar ho gaya"
+  },
+  "patterns_en": {
+    "has been processed": "is ready",
+    "is being processed": "is on the way"
+  },
+  "sibilants": {
+    "muskil": "mushkil",
+    "mustil": "mushkil",
+    "kosis": "koshish",
+    "visvas": "vishvas"
+  }
+}
